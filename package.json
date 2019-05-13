@@ -1,0 +1,29 @@
+{
+  "name": "baidu-nlu",
+  "version": "0.0.0",
+  "description": "Baidu NLU SDK in Node.js",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lsong",
+  "license": "MIT",
+  "dependencies": {
+    "xttp": "^1.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/baidu-nlu.git"
+  },
+  "keywords": [
+    "baidu"
+  ],
+  "bugs": {
+    "url": "https://github.com/song940/baidu-nlu/issues"
+  },
+  "homepage": "https://github.com/song940/baidu-nlu#readme"
+}
